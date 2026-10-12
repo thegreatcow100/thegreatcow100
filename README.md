@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Security Information and Event Management in Microsoft Azure](https://github.com/thegreatcow100/SIEM-in-Azure)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunt Report: Meridian](https://github.com/thegreatcow100/Threat-Hunt-Report-Meridian-)**
 
 <hr/>
 
